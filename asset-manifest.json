@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SideBar-React/static/css/main.e0f79945.chunk.css",
+    "main.js": "/SideBar-React/static/js/main.813a51cc.chunk.js",
+    "main.js.map": "/SideBar-React/static/js/main.813a51cc.chunk.js.map",
+    "runtime-main.js": "/SideBar-React/static/js/runtime-main.ae673998.js",
+    "runtime-main.js.map": "/SideBar-React/static/js/runtime-main.ae673998.js.map",
+    "static/js/2.43f1e553.chunk.js": "/SideBar-React/static/js/2.43f1e553.chunk.js",
+    "static/js/2.43f1e553.chunk.js.map": "/SideBar-React/static/js/2.43f1e553.chunk.js.map",
+    "index.html": "/SideBar-React/index.html",
+    "precache-manifest.df2ce670318636af9ad01f57b567ad74.js": "/SideBar-React/precache-manifest.df2ce670318636af9ad01f57b567ad74.js",
+    "service-worker.js": "/SideBar-React/service-worker.js",
+    "static/css/main.e0f79945.chunk.css.map": "/SideBar-React/static/css/main.e0f79945.chunk.css.map",
+    "static/js/2.43f1e553.chunk.js.LICENSE.txt": "/SideBar-React/static/js/2.43f1e553.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SideBar-React/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae673998.js",
+    "static/js/2.43f1e553.chunk.js",
+    "static/css/main.e0f79945.chunk.css",
+    "static/js/main.813a51cc.chunk.js"
+  ]
+}
